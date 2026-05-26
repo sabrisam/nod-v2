@@ -1,4 +1,4 @@
-import { BottomNav } from "../components/ui/BottomNav";
+import { BottomNav } from "@/components/ui/BottomNav";
 
 export default function Home() {
   return (

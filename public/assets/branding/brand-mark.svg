@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 100" role="img" aria-label="NOD brand mark">
+  <rect width="280" height="100" rx="20" fill="#050505" />
+  <path d="M48 74V30h10v36h12V30h10v44h-32Zm44 0V30h20c10 0 16 4 16 12 0 6-3 10-8 12l12 18h-11l-10-16H84v16h-12Zm20-26h8c5 0 8-2 8-6 0-4-3-6-8-6h-8v12Zm80 26V30h32c12 0 20 8 20 20 0 10-6 16-14 18l16 18h-12l-14-16h-6v16h-12Zm12-26h8c6 0 10-2 10-8 0-6-4-8-10-8h-8v16Z" fill="#D4AF37" />
+  <text x="50%" y="92" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#f5f1e8">NOD brand asset</text>
+</svg>
